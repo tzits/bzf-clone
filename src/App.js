@@ -25,7 +25,7 @@ const App = () => {
       setQuiz(json)
     }
     catch {
-  
+    // should do some sort of error catch
     }
   }
 
