@@ -68,6 +68,7 @@ h3 {
 .question-block p {
     font-size: 11px;
     font-style: italic;
+    text-decoration: none;
 }
 
 .question-block a {
